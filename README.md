@@ -37,6 +37,7 @@
 定义期待响应为$d_k$,希望系统输出$y_k$与之接近，并且在k时刻，系统输出误差为:
 
 $$\varepsilon =d_k - y_k\tag{1}​$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=$$\varepsilon&space;=d_k&space;-&space;y_k\tag{1}​$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$\varepsilon&space;=d_k&space;-&space;y_k\tag{1}​$$" title="$$\varepsilon =d_k - y_k\tag{1}​$$" /></a>
 
 输入经过加权后，系统输出为:
 
